@@ -7,6 +7,6 @@ package entidades;
  */
 public class Persona {
     public Persona(){
-        
+        int a = 0;
     }
 }
